@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mikhail <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior data analyst from Russia</h3>
-<h4 align="center">Completed the Data Analyst course at Yandex Practicum data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAARklEQVR4AWMYjsD71NtXQPD2fDAWSauFu3cAwe7FdhhSAc1yMKZocwSa5OS3cA0GrxaOVMlXCMkn6JLqdvwwJr+d+vBLVgAvzjNGJ1khCgAAAABJRU5ErkJggg== </h4>
+<h4 align="center">Completed the Data Analyst course at Yandex Practicum <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAARklEQVR4AWMYjsD71NtXQPD2fDAWSauFu3cAwe7FdhhSAc1yMKZocwSa5OS3cA0GrxaOVMlXCMkn6JLqdvwwJr+d+vBLVgAvzjNGJ1khCgAAAABJRU5ErkJggg=="/> </h4>
 <h4 align="center">Getting a higher education majoring in Software Engineering.</h4>
 
 <h3 align="center">Languages and Tools:</h3>
