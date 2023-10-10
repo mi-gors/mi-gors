@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mikhail <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior data analyst from Russia</h3>
-<center>Completed the Data Analyst course at Yandex Practicum.</center> <br/>
+<h4 align="center">Completed the Data Analyst course at Yandex Practicum.</center> </h4>
 Getting a higher education majoring in Software Engineering.
 
 <h3 align="center">Languages and Tools:</h3>
