@@ -3,10 +3,12 @@
 <h3 align="center">Junior data analyst from Russia</h3>
 
 <h3 align="center">Languages and Tools:</h3>
-<img src="https://simpleicons.org/icons/postgresql.svg" alt=" ">
 
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+
+<img src="https://sun9-56.userapi.com/impg/Zr0GTb9XFKoI0sSqo3rGhKATvN5OALaWDjaDwQ/R7xBMIokB34.jpg" alt=" ">
 <!--
 **mi-gors/mi-gors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
