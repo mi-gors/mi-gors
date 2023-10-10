@@ -18,7 +18,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
-<img src="https://sun9-56.userapi.com/impg/Zr0GTb9XFKoI0sSqo3rGhKATvN5OALaWDjaDwQ/R7xBMIokB34.jpg?size=1024x640&quality=95&sign=3a1d0ddefc308fb9fbfb381ac505f313&type=album" alt=" ">
+<img src="https://sun9-56.userapi.com/impg/Zr0GTb9XFKoI0sSqo3rGhKATvN5OALaWDjaDwQ/R7xBMIokB34.jpg?size=1024x640&quality=95&sign=3a1d0ddefc308fb9fbfb381ac505f313&type=album" height="400" alt=" ">
 <!--
 **mi-gors/mi-gors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
