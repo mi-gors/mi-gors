@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mikhail <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32"/> </h1>
+<h1 align="center">Hi there, I'm <a href="" target="_blank">Mikhail</a>  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32"/> </h1>
 <h3 align="center">Junior data analyst from Russia</h3>
 <h4 align="center">Completed the Data Analyst course at Yandex Practicum <img src="https://yt3.googleusercontent.com/-pnsqu0xQYwxMhUVq-HZJHf691DEhTlEl1fZvjUtUwJIKMyTqXDBVvK7d2dSjFUTYdHFpTYvAo8=s900-c-k-c0x00ffffff-no-rj" height="22" /> </h4>
 <h4 align="center">Getting a higher education majoring in Software Engineering.</h4>
