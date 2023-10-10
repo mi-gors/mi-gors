@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Mikhail</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Junior data analyst from Russia 🇷🇺</h3>
 
+
+<img src="https://sun9-56.userapi.com/impg/Zr0GTb9XFKoI0sSqo3rGhKATvN5OALaWDjaDwQ/R7xBMIokB34.jpg?size=1024x640&quality=95&sign=3a1d0ddefc308fb9fbfb381ac505f313&type=album" alt="альтернативный текст">
 <!--
 **mi-gors/mi-gors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
